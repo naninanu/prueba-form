@@ -1,0 +1,21 @@
+header{
+	text-align: center;
+
+}
+a{
+	text-decoration: none;
+	font-size: 2em;
+	color: black;
+}
+li
+{
+	list-style: none;
+	padding: 3%;
+	background-color: #9AFE2E;
+}
+.container{
+	width: 448px;
+	margin: auto;
+padding-top: 250px;
+}
+
